@@ -1,0 +1,1 @@
+In order to have my code be more organized, i stored my fizz, buzz, or fizzbuzz detection algorithm into a function with one parameter, i. I then used a series of nested if type loops using modulus to replace the numbers for the proper word. I called this function within a for loop with the variable i being counted. 
