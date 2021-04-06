@@ -1,0 +1,3 @@
+Working with Nikki, Chris, and Andrew was a blast, navigating branches and embedding assets was not.
+
+We used Nikki's site to make our fictional band page. we had some mild issues embedding the format, but soon after we were off to the races. We figured out the most efficient model was to pull from main, and push to our branch. Once we got that figured out we entered our text and asked you for help with the conflicts. After that I made a band photo and Andrew made an MP3. We got the audio to properly work, but we couldn't figure out how to get the band image to work. Overall, it was a fun experience, but I wish we had a little more time to troubleshoot.
